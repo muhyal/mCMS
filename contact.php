@@ -34,18 +34,15 @@ if (isset($_POST['email'], $_POST['subject'], $_POST['name'], $_POST['msg'])) {
 	}
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width,minimum-scale=1">
-		<title>Contact Form</title>
+<?php
+include './app/db-config.php';
+include( "./theme/partials/site/page-header.php" );
+?>
+
+        <link href="./theme/custom/custom.css" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
-		<link rel="stylesheet" href="./theme/custom/custom.css">
-	</head>
-	<body>
-		<form class="contact" method="post" action="">
-			<h1>Contact Form</h1>
+
+<form class="contact" method="post" action="">
 			<div class="fields">
 				<label for="email">
 					<i class="fas fa-envelope"></i>
@@ -63,5 +60,8 @@ if (isset($_POST['email'], $_POST['subject'], $_POST['name'], $_POST['msg'])) {
      <?php endif; ?>
 			<input type="submit">
 		</form>
-	</body>
-</html>
+
+<?php
+include( "./theme/partials/site/footer.php" );
+?>
+

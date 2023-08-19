@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>Login</title>
+<html lang="en">
+<?php
+include './app/db-config.php';
+include( "./theme/partials/site/page-header.php" );
+?>
         <link href="./theme/custom/custom.css" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
-	</head>
-	<body>
+
+
 		<div class="login">
 			<h1>Login</h1>
 			<form action="./app/authenticate.php" method="post">
@@ -21,5 +22,7 @@
 				<input type="submit" value="Login">
 			</form>
 		</div>
-	</body>
-</html>
+
+<?php
+include( "./theme/partials/site/footer.php" );
+?>

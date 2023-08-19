@@ -1,4 +1,8 @@
 <?php
+include './app/db-config.php';
+include( "./theme/partials/site/page-header.php" );
+?>
+<?php
 // Change this to your connection info.
 $DATABASE_HOST = 'localhost';
 $DATABASE_USER = 'mcms';
@@ -12,7 +16,7 @@ if (mysqli_connect_errno()) {
 }
 // First we check if the email and code exists...
 if (isset($_GET['email'], $_GET['code'])) {
-	if ($stmt = $con->prepare('SELECT * FROM accounts WHERE email = ? AND activation_code = ?')) {
+	if ($stmt = $con->prepare('SELECT * FROM accounts WHERE email = ? AND activation_code = ?'))44444 {
 		$stmt->bind_param('ss', $_GET['email'], $_GET['code']);
 		$stmt->execute();
 		// Store the result so we can check if the account exists in the database.
@@ -24,11 +28,24 @@ if (isset($_GET['email'], $_GET['code'])) {
 				$newcode = 'activated';
 				$stmt->bind_param('sss', $newcode, $_GET['email'], $_GET['code']);
 				$stmt->execute();
-				echo 'Your account is now activated! You can now <a href="/login.php">login</a>!';
+				echo '<div class="alert alert-primary d-flex align-items-center p-5 mb-10">
+                    <i class="ki-duotone ki-shield-tick fs-2hx text-primary me-4"><span class="path1"></span><span class="path2"></span></i>                    <div class="d-flex flex-column">
+                        <h4 class="mb-1 text-primary">Your account is now activated!</h4>
+                        <span>You can now <a href="/login.php">login</a>!</span>
+                    </div>
+                </div>';
 			}
 		} else {
-			echo 'The account is already activated or doesn\'t exist!';
+			echo '<div class="alert alert-danger d-flex align-items-center p-5 mb-10">
+                    <i class="ki-duotone ki-shield-tick fs-2hx text-danger me-4"><span class="path1"></span><span class="path2"></span></i>                    <div class="d-flex flex-column">
+                        <h4 class="mb-1 text-danger">Something went wrong :(</h4>
+                        <span>The account is already activated or doesn\'t exist!</span>
+                    </div>
+                </div>';
 		}
 	}
 }
+?>
+<?php
+include( "./theme/partials/site/footer.php" );
 ?>
