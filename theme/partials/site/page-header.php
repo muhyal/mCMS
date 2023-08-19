@@ -1,4 +1,6 @@
-<!--begin::Head-->
+<!DOCTYPE html>
+<html lang="en">
+    <!--begin::Head-->
 	<head><base href=""/>
 	<?php
 	include './app/db-config.php';
