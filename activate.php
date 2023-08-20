@@ -16,7 +16,7 @@ if (mysqli_connect_errno()) {
 }
 // First we check if the email and code exists...
 if (isset($_GET['email'], $_GET['code'])) {
-	if ($stmt = $con->prepare('SELECT * FROM accounts WHERE email = ? AND activation_code = ?'))44444 {
+	if ($stmt = $con->prepare('SELECT * FROM accounts WHERE email = ? AND activation_code = ?')) {
 		$stmt->bind_param('ss', $_GET['email'], $_GET['code']);
 		$stmt->execute();
 		// Store the result so we can check if the account exists in the database.

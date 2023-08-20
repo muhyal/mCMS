@@ -75,31 +75,31 @@
 										<!--end::Subtitle-->
 										<!--begin::Link-->
 										<a href="https://www.facebook.com/keenthemes" class="mb-6">
-											<img src="../theme/assets/media/svg/brand-logos/facebook-4.svg" class="h-20px me-2" alt="" />
+											<img src="/theme/assets/media/svg/brand-logos/facebook-4.svg" class="h-20px me-2" alt="" />
 											<span class="text-white opacity-50 text-hover-primary fs-5 mb-6">Facebook</span>
 										</a>
 										<!--end::Link-->
 										<!--begin::Link-->
 										<a href="https://github.com/KeenthemesHub" class="mb-6">
-											<img src="../theme/assets/media/svg/brand-logos/github.svg" class="h-20px me-2" alt="" />
+											<img src="/theme/assets/media/svg/brand-logos/github.svg" class="h-20px me-2" alt="" />
 											<span class="text-white opacity-50 text-hover-primary fs-5 mb-6">Github</span>
 										</a>
 										<!--end::Link-->
 										<!--begin::Link-->
 										<a href="https://twitter.com/keenthemes" class="mb-6">
-											<img src="../theme/assets/media/svg/brand-logos/twitter.svg" class="h-20px me-2" alt="" />
+											<img src="/theme/assets/media/svg/brand-logos/twitter.svg" class="h-20px me-2" alt="" />
 											<span class="text-white opacity-50 text-hover-primary fs-5 mb-6">Twitter</span>
 										</a>
 										<!--end::Link-->
 										<!--begin::Link-->
 										<a href="https://dribbble.com/keenthemes" class="mb-6">
-											<img src="../theme/assets/media/svg/brand-logos/dribbble-icon-1.svg" class="h-20px me-2" alt="" />
+											<img src="/theme/assets/media/svg/brand-logos/dribbble-icon-1.svg" class="h-20px me-2" alt="" />
 											<span class="text-white opacity-50 text-hover-primary fs-5 mb-6">Dribbble</span>
 										</a>
 										<!--end::Link-->
 										<!--begin::Link-->
 										<a href="https://www.instagram.com/keenthemes" class="mb-6">
-											<img src="../theme/assets/media/svg/brand-logos/instagram-2-1.svg" class="h-20px me-2" alt="" />
+											<img src="/theme/assets/media/svg/brand-logos/instagram-2-1.svg" class="h-20px me-2" alt="" />
 											<span class="text-white opacity-50 text-hover-primary fs-5 mb-6">Instagram</span>
 										</a>
 										<!--end::Link-->
@@ -124,7 +124,7 @@
 							<div class="d-flex align-items-center order-2 order-md-1">
 								<!--begin::Logo-->
 								<a href="../../demo1/dist/landing.html">
-									<img alt="Logo" src="../theme/assets/media/logos/landing.svg" class="h-15px h-md-20px" />
+									<img alt="Logo" src="/theme/assets/media/logos/landing.svg" class="h-15px h-md-20px" />
 								</a>
 								<!--end::Logo image-->
 								<!--begin::Logo image-->
@@ -174,16 +174,16 @@
 		<!--begin::Javascript-->
 		<script>var hostUrl = "theme/assets/";</script>
 		<!--begin::Global Javascript Bundle(mandatory for all pages)-->
-		<script src="../theme/assets/plugins/global/plugins.bundle.js"></script>
-		<script src="../theme/assets/js/scripts.bundle.js"></script>
+		<script src="/theme/assets/plugins/global/plugins.bundle.js"></script>
+		<script src="/theme/assets/js/scripts.bundle.js"></script>
 		<!--end::Global Javascript Bundle-->
 		<!--begin::Vendors Javascript(used for this page only)-->
-		<script src="../theme/assets/plugins/custom/fslightbox/fslightbox.bundle.js"></script>
-		<script src="../theme/assets/plugins/custom/typedjs/typedjs.bundle.js"></script>
+		<script src="/theme/assets/plugins/custom/fslightbox/fslightbox.bundle.js"></script>
+		<script src="/theme/assets/plugins/custom/typedjs/typedjs.bundle.js"></script>
 		<!--end::Vendors Javascript-->
 		<!--begin::Custom Javascript(used for this page only)-->
-		<script src="../theme/assets/js/custom/landing.js"></script>
-		<script src="../theme/assets/js/custom/pages/pricing/general.js"></script>
+		<script src="/theme/assets/js/custom/landing.js"></script>
+		<script src="/theme/assets/js/custom/pages/pricing/general.js"></script>
 		<!--end::Custom Javascript-->
 		<!--end::Javascript-->
 	</body>

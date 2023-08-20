@@ -281,6 +281,7 @@ tmtags
 build/
 nbbuild/
 dist/
+.idea/
 nbdist/
 .nb-gradle/
 
