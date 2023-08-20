@@ -19,42 +19,42 @@
 						<div class="d-flex flex-center flex-wrap position-relative px-5">
 							<!--begin::Client-->
 							<div class="d-flex flex-center m-3 m-md-6" data-bs-toggle="tooltip" title="Fujifilm">
-								<img src="theme/assets/media/svg/brand-logos/fujifilm.svg" class="mh-30px mh-lg-40px" alt="" />
+								<img src="../theme/assets/media/svg/brand-logos/fujifilm.svg" class="mh-30px mh-lg-40px" alt="" />
 							</div>
 							<!--end::Client-->
 							<!--begin::Client-->
 							<div class="d-flex flex-center m-3 m-md-6" data-bs-toggle="tooltip" title="Vodafone">
-								<img src="theme/assets/media/svg/brand-logos/vodafone.svg" class="mh-30px mh-lg-40px" alt="" />
+								<img src="../theme/assets/media/svg/brand-logos/vodafone.svg" class="mh-30px mh-lg-40px" alt="" />
 							</div>
 							<!--end::Client-->
 							<!--begin::Client-->
 							<div class="d-flex flex-center m-3 m-md-6" data-bs-toggle="tooltip" title="KPMG International">
-								<img src="theme/assets/media/svg/brand-logos/kpmg.svg" class="mh-30px mh-lg-40px" alt="" />
+								<img src="../theme/assets/media/svg/brand-logos/kpmg.svg" class="mh-30px mh-lg-40px" alt="" />
 							</div>
 							<!--end::Client-->
 							<!--begin::Client-->
 							<div class="d-flex flex-center m-3 m-md-6" data-bs-toggle="tooltip" title="Nasa">
-								<img src="theme/assets/media/svg/brand-logos/nasa.svg" class="mh-30px mh-lg-40px" alt="" />
+								<img src="../theme/assets/media/svg/brand-logos/nasa.svg" class="mh-30px mh-lg-40px" alt="" />
 							</div>
 							<!--end::Client-->
 							<!--begin::Client-->
 							<div class="d-flex flex-center m-3 m-md-6" data-bs-toggle="tooltip" title="Aspnetzero">
-								<img src="theme/assets/media/svg/brand-logos/aspnetzero.svg" class="mh-30px mh-lg-40px" alt="" />
+								<img src="../theme/assets/media/svg/brand-logos/aspnetzero.svg" class="mh-30px mh-lg-40px" alt="" />
 							</div>
 							<!--end::Client-->
 							<!--begin::Client-->
 							<div class="d-flex flex-center m-3 m-md-6" data-bs-toggle="tooltip" title="AON - Empower Results">
-								<img src="theme/assets/media/svg/brand-logos/aon.svg" class="mh-30px mh-lg-40px" alt="" />
+								<img src="../theme/assets/media/svg/brand-logos/aon.svg" class="mh-30px mh-lg-40px" alt="" />
 							</div>
 							<!--end::Client-->
 							<!--begin::Client-->
 							<div class="d-flex flex-center m-3 m-md-6" data-bs-toggle="tooltip" title="Hewlett-Packard">
-								<img src="theme/assets/media/svg/brand-logos/hp-3.svg" class="mh-30px mh-lg-40px" alt="" />
+								<img src="../theme/assets/media/svg/brand-logos/hp-3.svg" class="mh-30px mh-lg-40px" alt="" />
 							</div>
 							<!--end::Client-->
 							<!--begin::Client-->
 							<div class="d-flex flex-center m-3 m-md-6" data-bs-toggle="tooltip" title="Truman">
-								<img src="theme/assets/media/svg/brand-logos/truman.svg" class="mh-30px mh-lg-40px" alt="" />
+								<img src="../theme/assets/media/svg/brand-logos/truman.svg" class="mh-30px mh-lg-40px" alt="" />
 							</div>
 							<!--end::Client-->
 						</div>
@@ -94,7 +94,7 @@
 							<!--begin::Story-->
 							<div class="text-center mb-10 mb-md-0">
 								<!--begin::Illustration-->
-								<img src="theme/assets/media/illustrations/sketchy-1/2.png" class="mh-125px mb-9" alt="" />
+								<img src="../theme/assets/media/illustrations/sketchy-1/2.png" class="mh-125px mb-9" alt="" />
 								<!--end::Illustration-->
 								<!--begin::Heading-->
 								<div class="d-flex flex-center mb-5">
@@ -120,7 +120,7 @@
 							<!--begin::Story-->
 							<div class="text-center mb-10 mb-md-0">
 								<!--begin::Illustration-->
-								<img src="theme/assets/media/illustrations/sketchy-1/8.png" class="mh-125px mb-9" alt="" />
+								<img src="../theme/assets/media/illustrations/sketchy-1/8.png" class="mh-125px mb-9" alt="" />
 								<!--end::Illustration-->
 								<!--begin::Heading-->
 								<div class="d-flex flex-center mb-5">
@@ -146,7 +146,7 @@
 							<!--begin::Story-->
 							<div class="text-center mb-10 mb-md-0">
 								<!--begin::Illustration-->
-								<img src="theme/assets/media/illustrations/sketchy-1/12.png" class="mh-125px mb-9" alt="" />
+								<img src="../theme/assets/media/illustrations/sketchy-1/12.png" class="mh-125px mb-9" alt="" />
 								<!--end::Illustration-->
 								<!--begin::Heading-->
 								<div class="d-flex flex-center mb-5">
@@ -175,22 +175,22 @@
 						<div data-tns="true" data-tns-loop="true" data-tns-swipe-angle="false" data-tns-speed="2000" data-tns-autoplay="true" data-tns-autoplay-timeout="18000" data-tns-controls="true" data-tns-nav="false" data-tns-items="1" data-tns-center="false" data-tns-dots="false" data-tns-prev-button="#kt_team_slider_prev1" data-tns-next-button="#kt_team_slider_next1">
 							<!--begin::Item-->
 							<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-								<img src="theme/assets/media/preview/demos/demo1/light-ltr.png" class="card-rounded shadow mh-lg-650px mw-100" alt="" />
+								<img src="../theme/assets/media/preview/demos/demo1/light-ltr.png" class="card-rounded shadow mh-lg-650px mw-100" alt="" />
 							</div>
 							<!--end::Item-->
 							<!--begin::Item-->
 							<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-								<img src="theme/assets/media/preview/demos/demo2/light-ltr.png" class="card-rounded shadow mh-lg-650px mw-100" alt="" />
+								<img src="../theme/assets/media/preview/demos/demo2/light-ltr.png" class="card-rounded shadow mh-lg-650px mw-100" alt="" />
 							</div>
 							<!--end::Item-->
 							<!--begin::Item-->
 							<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-								<img src="theme/assets/media/preview/demos/demo4/light-ltr.png" class="card-rounded shadow mh-lg-650px mw-100" alt="" />
+								<img src="../theme/assets/media/preview/demos/demo4/light-ltr.png" class="card-rounded shadow mh-lg-650px mw-100" alt="" />
 							</div>
 							<!--end::Item-->
 							<!--begin::Item-->
 							<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-								<img src="theme/assets/media/preview/demos/demo5/light-ltr.png" class="card-rounded shadow mh-lg-650px mw-100" alt="" />
+								<img src="../theme/assets/media/preview/demos/demo5/light-ltr.png" class="card-rounded shadow mh-lg-650px mw-100" alt="" />
 							</div>
 							<!--end::Item-->
 						</div>
@@ -540,7 +540,7 @@
 										<!--begin::Col-->
 										<div class="col-lg-6">
 											<!--begin::Item-->
-											<a class="d-block card-rounded overlay h-lg-100" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x600/img-23.jpg">
+											<a class="d-block card-rounded overlay h-lg-100" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x600/img-23.jpg">
 												<!--begin::Image-->
 												<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-lg-100 min-h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-23.jpg')"></div>
 												<!--end::Image-->
@@ -564,7 +564,7 @@
 												<!--begin::Col-->
 												<div class="col-lg-6">
 													<!--begin::Item-->
-													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x600/img-22.jpg">
+													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x600/img-22.jpg">
 														<!--begin::Image-->
 														<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-22.jpg')"></div>
 														<!--end::Image-->
@@ -584,7 +584,7 @@
 												<!--begin::Col-->
 												<div class="col-lg-6">
 													<!--begin::Item-->
-													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x600/img-21.jpg">
+													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x600/img-21.jpg">
 														<!--begin::Image-->
 														<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-21.jpg')"></div>
 														<!--end::Image-->
@@ -604,7 +604,7 @@
 											</div>
 											<!--end::Row-->
 											<!--begin::Item-->
-											<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x400/img-20.jpg">
+											<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x400/img-20.jpg">
 												<!--begin::Image-->
 												<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-20.jpg')"></div>
 												<!--end::Image-->
@@ -632,7 +632,7 @@
 										<!--begin::Col-->
 										<div class="col-lg-6">
 											<!--begin::Item-->
-											<a class="d-block card-rounded overlay h-lg-100" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x600/img-11.jpg">
+											<a class="d-block card-rounded overlay h-lg-100" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x600/img-11.jpg">
 												<!--begin::Image-->
 												<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-lg-100 min-h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-11.jpg')"></div>
 												<!--end::Image-->
@@ -656,7 +656,7 @@
 												<!--begin::Col-->
 												<div class="col-lg-6">
 													<!--begin::Item-->
-													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x600/img-12.jpg">
+													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x600/img-12.jpg">
 														<!--begin::Image-->
 														<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-12.jpg')"></div>
 														<!--end::Image-->
@@ -676,7 +676,7 @@
 												<!--begin::Col-->
 												<div class="col-lg-6">
 													<!--begin::Item-->
-													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x600/img-21.jpg">
+													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x600/img-21.jpg">
 														<!--begin::Image-->
 														<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-21.jpg')"></div>
 														<!--end::Image-->
@@ -696,7 +696,7 @@
 											</div>
 											<!--end::Row-->
 											<!--begin::Item-->
-											<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x400/img-20.jpg">
+											<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x400/img-20.jpg">
 												<!--begin::Image-->
 												<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-20.jpg')"></div>
 												<!--end::Image-->
@@ -728,7 +728,7 @@
 												<!--begin::Col-->
 												<div class="col-lg-6">
 													<!--begin::Item-->
-													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x600/img-16.jpg">
+													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x600/img-16.jpg">
 														<!--begin::Image-->
 														<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-16.jpg')"></div>
 														<!--end::Image-->
@@ -748,7 +748,7 @@
 												<!--begin::Col-->
 												<div class="col-lg-6">
 													<!--begin::Item-->
-													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x600/img-12.jpg">
+													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x600/img-12.jpg">
 														<!--begin::Image-->
 														<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-12.jpg')"></div>
 														<!--end::Image-->
@@ -768,7 +768,7 @@
 											</div>
 											<!--end::Row-->
 											<!--begin::Item-->
-											<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x400/img-15.jpg">
+											<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x400/img-15.jpg">
 												<!--begin::Image-->
 												<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-15.jpg')"></div>
 												<!--end::Image-->
@@ -788,7 +788,7 @@
 										<!--begin::Col-->
 										<div class="col-lg-6">
 											<!--begin::Item-->
-											<a class="d-block card-rounded overlay h-lg-100" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x600/img-23.jpg">
+											<a class="d-block card-rounded overlay h-lg-100" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x600/img-23.jpg">
 												<!--begin::Image-->
 												<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-lg-100 min-h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-23.jpg')"></div>
 												<!--end::Image-->
@@ -816,7 +816,7 @@
 										<!--begin::Col-->
 										<div class="col-lg-6">
 											<!--begin::Item-->
-											<a class="d-block card-rounded overlay h-lg-100" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x600/img-15.jpg">
+											<a class="d-block card-rounded overlay h-lg-100" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x600/img-15.jpg">
 												<!--begin::Image-->
 												<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-lg-100 min-h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-15.jpg')"></div>
 												<!--end::Image-->
@@ -840,7 +840,7 @@
 												<!--begin::Col-->
 												<div class="col-lg-6">
 													<!--begin::Item-->
-													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x600/img-22.jpg">
+													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x600/img-22.jpg">
 														<!--begin::Image-->
 														<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-22.jpg')"></div>
 														<!--end::Image-->
@@ -860,7 +860,7 @@
 												<!--begin::Col-->
 												<div class="col-lg-6">
 													<!--begin::Item-->
-													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x600/img-21.jpg">
+													<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x600/img-21.jpg">
 														<!--begin::Image-->
 														<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-21.jpg')"></div>
 														<!--end::Image-->
@@ -880,7 +880,7 @@
 											</div>
 											<!--end::Row-->
 											<!--begin::Item-->
-											<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="theme/assets/media/stock/600x400/img-14.jpg">
+											<a class="d-block card-rounded overlay" data-fslightbox="lightbox-projects" href="../theme/assets/media/stock/600x400/img-14.jpg">
 												<!--begin::Image-->
 												<div class="overlay-wrapper bgi-no-repeat bgi-position-center bgi-size-cover card-rounded h-250px" style="background-image:url('theme/assets/media/stock/600x600/img-14.jpg')"></div>
 												<!--end::Image-->
@@ -1254,7 +1254,7 @@
 								<div class="d-flex align-items-center">
 									<!--begin::Avatar-->
 									<div class="symbol symbol-circle symbol-50px me-5">
-										<img src="theme/assets/media/avatars/300-1.jpg" class="" alt="" />
+										<img src="../theme/assets/media/avatars/300-1.jpg" class="" alt="" />
 									</div>
 									<!--end::Avatar-->
 									<!--begin::Name-->
@@ -1307,7 +1307,7 @@
 								<div class="d-flex align-items-center">
 									<!--begin::Avatar-->
 									<div class="symbol symbol-circle symbol-50px me-5">
-										<img src="theme/assets/media/avatars/300-2.jpg" class="" alt="" />
+										<img src="../theme/assets/media/avatars/300-2.jpg" class="" alt="" />
 									</div>
 									<!--end::Avatar-->
 									<!--begin::Name-->
@@ -1360,7 +1360,7 @@
 								<div class="d-flex align-items-center">
 									<!--begin::Avatar-->
 									<div class="symbol symbol-circle symbol-50px me-5">
-										<img src="theme/assets/media/avatars/300-16.jpg" class="" alt="" />
+										<img src="../theme/assets/media/avatars/300-16.jpg" class="" alt="" />
 									</div>
 									<!--end::Avatar-->
 									<!--begin::Name-->
